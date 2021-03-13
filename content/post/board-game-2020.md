@@ -44,7 +44,7 @@ sequenceDiagrams:
 ## 诡镇奇谈
 
 {{% center %}}
-![诡镇奇谈卡牌版](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_3037.JPG)
+![诡镇奇谈卡牌版](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_3037.JPG?x-oss-process=image/resize,w_500)
 {{% /center %}}
 
 诡镇奇谈是我心目中永远的神。克苏鲁背景，在游戏中需要不断进行调查，发现线索以破解真相，同时还需要与出现的怪物战斗。有时还会发生意想不到的事… 
@@ -53,14 +53,16 @@ sequenceDiagrams:
 
 构筑卡组可能听起来比较难，不过网上有 一些现成的卡组可以抄。最近官方推出的调查员起始牌组也是可以直接使用，降低了推新的门槛。
 
-![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_3038.JPG)
+{{% center %}}
+![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_3038.JPG?x-oss-process=image/resize,w_500)
+{{% /center %}}
 
 <!--more-->
 
 ## 大搜查
 
 {{% center %}}
-![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_3041.PNG)
+![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_3041.PNG?x-oss-process=image/resize,w_500)
 {{% /center %}}
 
 大搜查也是心目中的神级桌游。玩法就是桌面上的密室逃脱。需要发挥聪明才智，破解游戏中的一个个谜题，推进场景，完成最终的目标。有些谜题真的是让人拍案叫绝。后面几季还引入了AR的元素，进一步丰富了游戏体验。在游戏中卡关了也没关系，可以查看app上的提示。
@@ -76,38 +78,43 @@ sequenceDiagrams:
 ## 漫威群英传
 
 {{% center %}}
-![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_3043.JPG)
+![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_3043.JPG?x-oss-process=image/resize,w_500)
 {{% /center %}}
 
 漫威群英传也诡镇奇谈卡牌版比较类似，也是属于LCG类型的。需要组牌，通过打出卡牌来削减反派的血量，并阻止反派密谋成功。与诡镇相比，取消了很多元素，比如说基本没有剧情，没有地点和移动操作，没有获取经验值升级卡牌的设定。这让它的上手度会比诡镇更高一下，但相应乐趣也会丢失一些。
 
 对于卡组方面，基础里就给了几个预组的卡组。后续发行各种人物的扩展包也都是预组好的，即开即玩。可以说是相当方便了。上面诡镇的调查员包可能就是受漫威所启发而推出的。总之我觉得这是一个在上手度和可玩性方面找了一个平衡点的桌游吧。
 
-![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/5A670454-B4F0-407D-963F-A2ECB2ED9B03.JPG)
-
+{{% center %}}
+![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/5A670454-B4F0-407D-963F-A2ECB2ED9B03.JPG?x-oss-process=image/resize,w_500)
+{{% /center %}}
 
 
 
 ## 忘海传记
 
-![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_2488.JPG)
+{{% center %}}
+![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_2488.JPG?x-oss-process=image/resize,w_500)
+{{% /center %}}
 
 蹭别人的玩的。玩了两局，第一局玩到一半翻车了，于是开了第二局一直到半夜1点，最终整体完成剧情但是个人结局很惨……整体代入感很不错，剧情描述也很有意思。只是当时官方的语音还没好，需要人肉全程读剧情。
 
 
 {{% center %}}
-![忘海传记](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/0CCB3A43-4E76-4712-A2C5-5B36632953F0-BFBE942D-E044-48EE-A0D4-E3EA87EF6690.JPG)
+![忘海传记](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/0CCB3A43-4E76-4712-A2C5-5B36632953F0-BFBE942D-E044-48EE-A0D4-E3EA87EF6690.JPG?x-oss-process=image/resize,w_500)
 {{% /center %}}
 
 下面这张图，是在打海怪
-![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/88798716-BC5C-4BBB-8461-4BF855AEFD06-A79C4911-C8CC-4117-AE70-6BD78B4F24B8.JPG)
+{{% center %}}
+![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/88798716-BC5C-4BBB-8461-4BF855AEFD06-A79C4911-C8CC-4117-AE70-6BD78B4F24B8.JPG?x-oss-process=image/resize,w_500)
+{{% /center %}}
 
 
 
 ## 骸骨险境
 
 {{% center %}}
-![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_3042.PNG)
+![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/IMG_3042.PNG?x-oss-process=image/resize,w_500)
 {{% /center %}}
 
 也是在别人家蹭的一款桌游。这个桌游的配件真的是很赞，怪物的筹码沉甸甸的，卡牌也都是防水pvc材质，号称可以一边泡澡一边玩。
@@ -129,4 +136,6 @@ sequenceDiagrams:
 
 银白学院：
 
-![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/485994B0-13A6-4AF7-B556-B21E12B46D75-A30AD1FB-2613-4922-AC37-F3B474E31B3A.JPG)
+{{% center %}}
+![](https://zyl-image.oss-cn-shanghai.aliyuncs.com/picgo/485994B0-13A6-4AF7-B556-B21E12B46D75-A30AD1FB-2613-4922-AC37-F3B474E31B3A.JPG?x-oss-process=image/resize,w_500)
+{{% /center %}}
