@@ -41,10 +41,6 @@ sequenceDiagrams:
 
 迟来的2021年的读书报告，现在翻了下之前的记录，发现2021年真的是看了不少书啊。下面针对2021年看的书进行一个总结。因为时间过去比较久，大部分的书都不太记得内容了……
 
-{{% center %}}
-![读书报告](https://zyl-image.oss-cn-shanghai.aliyuncs.com/2023/05/05/img2842.JPG?x-oss-process=image/resize,w_300)
-{{% /center %}}
-
 <!--more-->
 
 # 重点推荐的书
