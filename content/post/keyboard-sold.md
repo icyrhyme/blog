@@ -46,6 +46,8 @@ sequenceDiagrams:
 
 许多年前上学的时候买的樱桃键盘，还是青轴100%配列的。青轴的脆脆的触感真的很有意思，就是声音太大了。另外现在看来100%的键盘实在是太大了。在小黄鱼上以100多的价格出掉。
 
+<!--more-->
+
 ## Keychron K2
 
 ![IMG_3081](https://zyl-image.oss-cn-shanghai.aliyuncs.com/2023/06/26/img3081.jpg)
